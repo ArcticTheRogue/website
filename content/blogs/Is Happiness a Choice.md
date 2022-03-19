@@ -1,6 +1,8 @@
 ---
 title: "Is Happiness a Choice?"
 date: 2021-04-12
+draft: false
+slug: "04-12-2021"
 ---
 In the book The Hitchhiker's Guide to the Galaxy there is a quote where one of the characters states "I'd far rather be happy than right any day." This quote has always stuck with me, as it gives the impression that this is a choice. That in life we have a choice to either be happy or wrong.
 
