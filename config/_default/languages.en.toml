@@ -15,7 +15,7 @@ dateFormat = "January 2 2006"
 [author]
   name = "ArcticTheRogue"
   image = "img/pfp.png"
-  headline = {{%icon "location-dot"%}} "New York, New York"
+  headline = {{<icon "location-dot">}}
   bio = "Some guy just trying to enjoy life as much as he can"
   links = [
      { email = "mailto:me@arctictherogue.xyz" },
