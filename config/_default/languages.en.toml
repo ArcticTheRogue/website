@@ -15,8 +15,8 @@ dateFormat = "January 2 2006"
 [author]
   name = "ArcticTheRogue"
   image = "img/pfp.png"
-  headline = "Some guy just trying to enjoy life as much as he can"
-  # bio = "A little bit about you"
+  headline = "{{<icon "location-drop">}} New York, New York"
+  bio = "Some guy just trying to enjoy life as much as he can"
   links = [
      { email = "mailto:me@arctictherogue.xyz" },
   #   { link = "https://link-to-some-website.com/" },
