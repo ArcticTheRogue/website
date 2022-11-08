@@ -1,7 +1,7 @@
 ---
 title: "We need to fix online chatting"
 date: 2022-11-08
-draft: true
+draft: false
 slug: "11-08-2022"
 ---
 ##Intro
