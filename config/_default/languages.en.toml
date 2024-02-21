@@ -1,24 +1,26 @@
 languageCode = "en"
 languageName = "English"
-displayName = "EN"
-isoCode = "en"
+languageDirection = "ltr"
 weight = 1
-rtl = false
 
 title = "ArcticTheRogue"
 #logo = "img/pfp.png"
 # description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
-dateFormat = "January 2 2006"
 
-[author]
+[params]
+  dateFormat = "January 2 2006"
+
+
+[params.author]
   name = "ArcticTheRogue"
   image = "img/pfp.png"
   headline = "Some guy just trying to enjoy life as much as he can"
   #bio = "Some guy just trying to enjoy life as much as he can"
   links = [
      { email = "mailto:me@arctictherogue.xyz" },
+     { akkoma = "https://labyrinth.zone/arctic" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -39,7 +41,7 @@ dateFormat = "January 2 2006"
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
   #   { linkedin = "https://linkedin.com/in/username" },
-     { mastodon = "https://im-in.space/@arctic" },
+  #   { mastodon = "https://im-in.space/@arctic" },
   #   { medium = "https://medium.com/username" },
   #   { microsoft = "https://www.microsoft.com/" },
   #   { orcid = "https://orcid.org/userid" },
@@ -54,7 +56,7 @@ dateFormat = "January 2 2006"
   #   { steam = "https://steamcommunity.com/profiles/userid" },
   #   { telegram = "https://t.me/username" },
   #   { tiktok = "https://tiktok.com/@username" },
-     { tumblr = "https://arctictherogue.tumblr.com" },
+ #    { tumblr = "https://arctictherogue.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
   #   { twitter = "https://twitter.com/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
